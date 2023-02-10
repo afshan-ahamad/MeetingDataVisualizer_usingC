@@ -5,7 +5,7 @@ Due to the social distancing and travel restrictions all around the world, peopl
 
 ![File](https://user-images.githubusercontent.com/104277153/218191355-3011155d-c8d5-403b-83be-e37a8687d443.JPG)
 
-Figure shows the expected output from the program. People with most number of meetings are displayed as a horizontal bar chart
+Figure shows the expected output from the program. People with most number of meetings are displayed as a horizontal bar chart
 Fig 1 shows the expected output from the program concerning the maximum number of meetings.
 There are different control and input arguments for the program. According to the arguments, the program should be able to change its behaviour and result in the expected output.
 
